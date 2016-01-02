@@ -13,11 +13,11 @@ La programacion que seguimos en clase en la asignatura que imparte **Antonio Mar
 
 - [ ] **Tema 3** *Espacios métricos*
 
-- [ ] **Tema 3** *Aplicacion continua*
+- [ ] **Tema 3** *Aplicación continua*
 
 - [ ] **Tema 4** *Homeomorfismos entre espacios topológicos*
 
-- [ ] **Tema 5** *Topologia producto y topologia inicial*  
+- [ ] **Tema 5** *Topología producto y topología inicial*  
 
 - [ ] **Tema 6** *Conexión*
 
